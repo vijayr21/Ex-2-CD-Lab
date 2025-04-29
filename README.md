@@ -34,7 +34,7 @@
 # INPUT
 
 ## LEX PROGRAM
-
+```
 
 /* program name is lexp.l */
 %{
@@ -95,7 +95,7 @@ int main() {
     return 0;
 }
 
-
+```
 # OUTPUT
 
 ![image](https://github.com/user-attachments/assets/f15cefdd-a0a3-4e0b-82b6-7cc404f68aac)
